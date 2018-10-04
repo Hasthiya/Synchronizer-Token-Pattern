@@ -1,8 +1,8 @@
-##Synchronizer Token Pattern with Node js
+## Synchronizer Token Pattern with Node js
 
 
 
-##install
+## install
 
 First you need to install node js. Use the following link to get the latest version.
 <br>
@@ -18,7 +18,7 @@ Install node modules with
 Install nodemon so you don't need to restart the server every time you does any changes 
 <br>`npm install -g nodemon`
 
-##Running 
+## Running 
 
 Use the following command to start the server.
 <br>
