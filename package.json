@@ -1,0 +1,22 @@
+{
+  "name": "sptassignment",
+  "version": "1.0.0",
+  "description": "Synchronizer-Token-Patterns",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "dependencies": {
+    "body-parser": "*",
+    "cors": "*",
+    "csrf": "^3.0.6",
+    "csrf-tokens": "^2.0.0",
+    "csurf": "^1.9.0",
+    "express": "*",
+    "mongoose": "*",
+    "uuid": "^3.3.2"
+  },
+  "author": "Hasthi Rambukwella",
+  "license": "ISC"
+}
